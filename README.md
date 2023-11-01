@@ -14,7 +14,7 @@ Tech stack:
 
 <table>
   <tr>
-    <td width="300px">
+    <td width="200px">
       Frontend #1
     </td> 
     <td width="350px"> 
@@ -24,7 +24,7 @@ Tech stack:
       <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
     </td>
      <td width="300px">
-        <a href="https://github.com/Puntiss/aws-angular-shop-project">Frontend Angular</a>
+        <a href="https://github.com/Puntiss/aws-angular-shop-project">Frontend Angular</a> -  <a href="http://angular-aws-shop.s3-website-us-east-1.amazonaws.com/">💻Live Version</a>
     </td> 
   </tr>
     <tr>
@@ -38,7 +38,7 @@ Tech stack:
       <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
     </td>
      <td>
-        <a href="https://github.com/Puntiss/aws-jsp-shop-project">Frontend JSP</a> 
+        <a href="https://github.com/Puntiss/aws-jsp-shop-project">Frontend JSP</a> - <a href="http://server1-env-1.eba-at33pbnq.us-east-1.elasticbeanstalk.com/">💻Live Version</a>
     </td> 
   </tr>
     <tr>
@@ -65,7 +65,7 @@ Tech stack:
 
 <table>
   <tr>
-    <td width="300px">
+    <td width="200px">
       Frontend
     </td> 
     <td width="350px"> 
@@ -96,7 +96,7 @@ Tech stack:
 </table>
 
 
-**3. My Personal Books**
+**3. My Trading Book**
 
 *This HTML and CSS website takes inspiration from https://www.myfxbook.com/ as a personal blog to share your trading results*
 
@@ -104,7 +104,7 @@ Tech stack:
 
 <table>
   <tr>
-    <td width="300px">
+    <td width="200px">
       Frontend
     </td> 
     <td width="350px"> 
@@ -126,7 +126,7 @@ Tech stack:
 
 <table>
   <tr>
-    <td width="300px">
+    <td width="200px">
       Frontend
     </td> 
     <td width="350px"> 
@@ -145,7 +145,7 @@ Tech stack:
 
 <table>
   <tr>
-    <td width="300px">
+    <td width="200px">
       Frontend
     </td> 
     <td width="350px"> 
