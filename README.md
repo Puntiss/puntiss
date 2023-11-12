@@ -5,8 +5,30 @@ Welcome to my GitHub, where you can find all my experiments.
 [![GitHub Puntiss](https://img.shields.io/github/followers/Puntiss?label=follow&style=social)](https://github.com/Puntiss)
 
 ## Projects
+**6. DevOps CI/CD TEst**
 
-**1. Grocieries Shop**
+*I have realized a small Java project that implements continuous implementation and continuous delivery, this means that an image on Docker is running and when a change in the code is made, through a commit the code stored in GitHub will be re-build by Jenkins and re-distributed on Docker*
+
+Tech stack:
+
+<table>
+  <tr>
+    <td width="200px">
+      DevOps
+    </td> 
+    <td width="350px"> 
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/>
+    </td>
+     <td width="300px">
+        <a href="https://github.com/Puntiss/devops-java-test">Repository</a>
+    </td> 
+  </tr>
+</table>
+
+**5. Groceries Shop**
 
 *AWS infrastructure that includes a Lambda function to process CSV file results, save images to an AWS S3 Bucket, and store product data in DynamoDB. The implementation seamlessly integrates Java-powered Lambda functions through AWS Gateway API, enabling the development of diverse front-end solutions. Two distinct front-end applications were realized using JSP and Angular pages with the Bootstrap framework, delivering a consistent user experience across multiple platforms.*
 
@@ -57,7 +79,7 @@ Tech stack:
   </tr>
 </table>
 
-**2. Poll Website**
+**4. Poll Website**
 
 *A web application developed using Angular or potentially any other frontend technology, enabling users to create and participate in polls, as well as view detailed statistics. The communication with the backend is facilitated through REST API calls.*
 
@@ -137,7 +159,7 @@ Tech stack:
     </td> 
 </table>
 
-**3. Top Trader Calculator**
+**1. Top Trader Calculator**
 
 *The Top Trader Calculator, made using Java Swing offers a user-friendly experience, simplifying profit tracking and tax calculations.*
 
