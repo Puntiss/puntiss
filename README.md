@@ -161,7 +161,7 @@ Tech stack:
       <img width="50" height="50" src="https://336118.selcdn.ru/Gutsy-Culebra/products/Google-Charts-Logo.png" alt="Java" title="Google Charts"/>
     </td>
      <td width="300px">
-        <a href="">My Personal Book</a>
+        <a href="https://github.com/Puntiss/html-myPersonalBook">My Personal Book</a>
     </td> 
 </table>
 
