@@ -18,6 +18,7 @@ Tech stack:
       <img width="50" src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain-vectordb--logo.png?itok=3wd-XHaL" alt="GitHub" title="GitHub"/>
       <img width="50" src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="NextJS" title="NextJS"/>
       <img width="50" src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" alt="NextJS" title="NextJS"/>
+      <img width="50" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" title="Tailwind"/>
     </td>
      <td width="300px">
         <a href="https://github.com/Puntiss/chatbot-langchain-netxjs">Repository</a>
