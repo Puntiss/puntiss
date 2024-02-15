@@ -92,7 +92,7 @@ Tech stack:
       Backend
     </td> 
     <td>
-      <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
+      <img width="50" src="https://pbs.twimg.com/profile_images/1235936519032049665/dBCF5aOn_400x400.png" alt="Spring Cloud" title="Spring Cloud"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/>
       <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/945f3fc449518a73b9f5f32868db466c-926961f91b072604c42b7f39ce2eaf1c.svg" alt="Lambda" title="Lambda"/>
@@ -129,12 +129,13 @@ Tech stack:
       Backend
     </td> 
     <td>
-      <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
+      <img width="50" src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" alt="Spring Web" title="Spring Web"/>
+      <img width="50" src="https://miro.medium.com/v2/resize:fit:400/1*1-13QxXfUE1mdrK_MfqonQ.png" alt="Spring Security" title="Spring Security"/>
+      <img width="50" src="https://pbs.twimg.com/profile_images/1235945452304031744/w55Uc_O9_400x400.png" alt="Spring Data" title="Spring Data"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-      <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
     </td>
     <td>
        <a href="https://github.com/Puntiss/java-poll-api">Java Rest API</a> 
