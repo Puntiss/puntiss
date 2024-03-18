@@ -23,7 +23,7 @@ Tech stack:
       <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="S3" title="S3"/>
     </td>
      <td width="300px">
-        <a href="https://github.com/Puntiss/angular-shake-AWSFeeded">Frontend Angular</a> -  <a href="">💻Live Version</a>
+        <a href="https://github.com/Puntiss/angular-shake-AWSFeeded">Frontend Angular</a> - <a href="https://angular-shake-shop.s3.us-east-2.amazonaws.com/index.html" target="_blank">💻Live Version</a>
     </td> 
   </tr>
   <tr>
@@ -32,7 +32,7 @@ Tech stack:
     </td> 
     <td>
       <img width="50" src="https://pbs.twimg.com/profile_images/1235936519032049665/dBCF5aOn_400x400.png" alt="Spring Cloud" title="Spring Cloud"/>
-      <img width="50" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/245108492/original/ffe3351a91830845f16edf744b52f2043d151ffc/write-unit-tests-for-your-code-using-junit-and-mockito.jpg" alt="Dynamo DB" title="Dynamo DB"/>
+      <!--img width="50" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/245108492/original/ffe3351a91830845f16edf744b52f2043d151ffc/write-unit-tests-for-your-code-using-junit-and-mockito.jpg" alt="Junit" title="Junit"/-->
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
       <img width="50" src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="JWT" title="JWT"/>
       <img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/002/329/190/small/file-encryption-icon-free-vector.jpg" alt="RSA encrypting" title="RSA encrypting"/>
@@ -52,7 +52,7 @@ Tech stack:
 
 **7. ChatBot Open**
 
-*I have realized a small Next.js project that embed the OpenAI Assistant function, so I have created a specialized assistant that help people in doing their Marketing job*
+*I have realized a small Next.js project that embeds the OpenAI Assistant function, so I have created a specialized assistant that helps people in doing their Marketing job*
 
 Tech stack:
 
@@ -115,7 +115,7 @@ Tech stack:
       <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="S3" title="S3"/>
     </td>
      <td width="300px">
-        <a href="https://github.com/Puntiss/aws-angular-shop-project">Frontend Angular</a> -  <a href="http://angular-aws-shop.s3-website-us-east-1.amazonaws.com/">💻Live Version</a>
+        <a href="https://github.com/Puntiss/aws-angular-shop-project">Frontend Angular</a> -  <a href="http://angular-aws-shop.s3-website-us-east-1.amazonaws.com/" target="_blank">💻Live Version</a>
     </td> 
   </tr>
     <tr>
@@ -131,7 +131,7 @@ Tech stack:
       <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/d88319dfa5d204f019b4284149886c59-7d586ea82f792b61a8c87de60565133d.svg" alt="EC2" title="EC2"/>
     </td>
      <td>
-        <a href="https://github.com/Puntiss/aws-jsp-shop-project">Frontend JSP</a> - <a href="http://server1-env-1.eba-at33pbnq.us-east-1.elasticbeanstalk.com/">💻Live Version</a>
+        <a href="https://github.com/Puntiss/aws-jsp-shop-project">Frontend JSP</a> - <a href="http://server1-env-1.eba-at33pbnq.us-east-1.elasticbeanstalk.com/" target="_blank">💻Live Version</a>
     </td> 
   </tr>
     <tr>
