@@ -34,6 +34,7 @@ Tech stack:
       <img width="50" src="https://pbs.twimg.com/profile_images/1235936519032049665/dBCF5aOn_400x400.png" alt="Spring Cloud" title="Spring Cloud"/>
       <!--img width="50" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/245108492/original/ffe3351a91830845f16edf744b52f2043d151ffc/write-unit-tests-for-your-code-using-junit-and-mockito.jpg" alt="Junit" title="Junit"/-->
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+      <img width="50" src="https://media.licdn.com/dms/image/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/0/1687786979245?e=2147483647&v=beta&t=AVc2G-hvHNjTMklQtEt6qlby2l79Bf5dBBkUB5DBRe0" alt="REST" title="REST"/>
       <img width="50" src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="JWT" title="JWT"/>
       <img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/002/329/190/small/file-encryption-icon-free-vector.jpg" alt="RSA encrypting" title="RSA encrypting"/>
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/6394/6394065.png" alt="JSON" title="JSON"/>
