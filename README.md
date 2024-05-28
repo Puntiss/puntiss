@@ -3,6 +3,57 @@ Welcome to my GitHub, where you can find all my experiments.
 
 [![Linkedin: Puntiss](https://img.shields.io/badge/-Puntiss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-punta)](https://www.linkedin.com/in/andrea-punta)
 ## Projects
+
+**10. Dance Academy Website**
+
+*Landing page made with angular allows me to create a website for a dance academy*
+
+Tech stack:
+
+<table>
+  <tr>
+    <td width="200px">
+      Frontend
+    </td> 
+    <td width="350px"> 
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
+      <img width="50" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RXJS" title="RXJS"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>      
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+      <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="S3" title="S3"/>
+    </td>
+     <td width="300px">
+        <a href="https://github.com/Puntiss/newstyledance">Frontend Angular</a> - <a href="http://appa.newstyledance.s3-website-us-east-1.amazonaws.com/home" target="_blank">💻Live Version</a>
+    </td> 
+  </tr>
+</table>
+
+**9. Beauty Saloon Website**
+
+*Landing page made with angular allows me to create a website for a beauty saloon*
+
+Tech stack:
+
+<table>
+  <tr>
+    <td width="200px">
+      Frontend
+    </td> 
+    <td width="350px"> 
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
+      <img width="50" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RXJS" title="RXJS"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>      
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+      <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="S3" title="S3"/>
+    </td>
+     <td width="300px">
+        <a href="https://github.com/Puntiss/esteticaebenesseremilano">Frontend Angular</a> - <a href="http://appa.esteticaebenesseremilano.com.s3-website-us-east-1.amazonaws.com" target="_blank">💻Live Version</a>
+    </td> 
+  </tr>
+</table>
+
 **8. Shake Shop**
 
 *The AWS infostructure made by Lambda functions designed to oversee shake product management and facilitate order creation for registered users with multi-session shopping carts. This system seamlessly integrates with an Angular-powered front end for effortless interaction.*
