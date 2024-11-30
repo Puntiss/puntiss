@@ -49,7 +49,7 @@ Tech stack:
       <img width="50" src="https://d2q66yyjeovezo.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="S3" title="S3"/>
     </td>
      <td width="300px">
-        <a href="https://github.com/Puntiss/esteticaebenesseremilano">Frontend Angular</a> - <a href="http://appa.esteticaebenesseremilano.com.s3-website-us-east-1.amazonaws.com" target="_blank">💻Live Version</a>
+        <a href="https://github.com/Puntiss/esteticaebenesseremilano">Frontend Angular</a> - <a href="https://www.esteticaebenesseremilano.com/home" target="_blank">💻Live Version</a>
     </td> 
   </tr>
 </table>
